@@ -34,6 +34,7 @@ Real-time environmental data monitoring
 Color LCD for clear data display
 
 Code Used: [main.cpp](Environment Monitor/main.cpp)
+Library Used: Si7021 Temperature & Humidity Sensor [Si7012](https://os.mbed.com/users/mcm/code/SI7021/)
 
 Installation
 
