@@ -5,9 +5,7 @@ Our Environment Monitor is a comprehensive system managed by mbed, designed to m
 
 Team Members
 
-John Landrum
-Nikola Porto
-Zekai Wang
+John Landrum, Nikola Porto, Zekai Wang
 
 Components
 
