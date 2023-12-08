@@ -34,7 +34,12 @@ Real-time environmental data monitoring
 Color LCD for clear data display
 
 Code Used: [main.cpp](Environment Monitor/main.cpp)
-Library Used: Si7021 Temperature & Humidity Sensor [Si7012](https://os.mbed.com/users/mcm/code/SI7021/)
+Library Used: 
+
+[Si7012 Temperature & Humidity Sensor](https://os.mbed.com/users/mcm/code/SI7021/)
+[MPL115A2 - Barometer and temperature sensor](https://os.mbed.com/components/MPL115A2/)
+[uLCD-144-G2 128 by 128 Smart Color LCD](https://os.mbed.com/users/4180_1/notebook/ulcd-144-g2-128-by-128-color-lcd/)
+
 
 Installation
 
