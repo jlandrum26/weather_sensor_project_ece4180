@@ -1,6 +1,6 @@
 # Environment Monitor
 Environment Monitor
-
+![Environment Monitor](uLCD.heic)
 Description
 
 Our Environment Monitor is a comprehensive system managed by mbed, designed to measure and display various environmental parameters. It provides real-time data on temperature, humidity, air pressure, ambient noise level, and air quality, all shown on a uLCD display.
