@@ -38,7 +38,7 @@ Color LCD for clear data display
 Code Used: [main.cpp](Environment Monitor/main.cpp)
 
 
-## Library Used: 
+## Library Used
 
 [Si7012 Temperature & Humidity Sensor](https://os.mbed.com/users/mcm/code/SI7021/)
 
