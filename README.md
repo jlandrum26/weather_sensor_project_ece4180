@@ -3,23 +3,35 @@
 
 Our Environment Monitor is a comprehensive system managed by mbed, designed to measure and display various environmental parameters. It provides real-time data on temperature, humidity, air pressure, ambient noise level, and air quality, all shown on a uLCD display.
 
+
 Team Members
 
 John Landrum, Nikola Porto, Zekai Wang
 
+
 Components
 
 mbed LPC1768: Main control unit
+
 Adafruit MiCS 5524 Sensor: Gas sensor for air quality
+
 μLCD-144-G2 Display: For data visualization
+
 MPL115A2 Sensor: Measures barometric pressure & temperature
+
 SPW2430 Sensor: MEMS microphone for noise level detection
+
 Adafruit Si7021 Sensor: Measures temperature & humidity
+
+![Environment Monitor](Overview.HEIC)
 Features
 
 Plug-and-play operation
+
 Real-time environmental data monitoring
+
 Color LCD for clear data display
+
 
 Installation
 
