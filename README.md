@@ -20,6 +20,7 @@ Features
 Plug-and-play operation
 Real-time environmental data monitoring
 Color LCD for clear data display
+
 Installation
 
 (Here, provide detailed instructions on how to install and set up your monitor, including any necessary hardware and software configurations.)
