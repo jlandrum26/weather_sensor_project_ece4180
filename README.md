@@ -24,7 +24,7 @@ SPW2430 Sensor: MEMS microphone for noise level detection
 
 Adafruit Si7021 Sensor: Measures temperature & humidity
 
-![Environment Monitor](Overview.jpg)
+![Environment Monitor](IMG_9073.jpg)
 
 
 ## Features
